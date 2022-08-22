@@ -1,9 +1,6 @@
 @charset "UTF-8";
 
-@font-face {
-    font-family: "Android";
-    src: url(/fontes/idroid.otf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500;600;700&display=swap');
 
@@ -83,7 +80,7 @@ div#Menu > a:hover{
 }
 
 h2 {
-    font-family: "Android", Arial, Helvetica, sans-serif;
+    font-family: 'Silkscreen', cursive;
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor2), white);
     width: 500px;
@@ -103,7 +100,8 @@ main {
 
 h1.AndroidFont {
     margin-top: 10px;
-    font-family: "Android", Arial, Helvetica, sans-serif;
+    font-family: 'Silkscreen', cursive;
+
 }
 
 div.video {
