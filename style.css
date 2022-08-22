@@ -24,9 +24,11 @@ body {
     margin: auto;
 
 }
+
 img {
-    width: 100%;
+    max-width: 100%;
 }
+
 .droid {
     max-width: 350px;
     margin: auto;
