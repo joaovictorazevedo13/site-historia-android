@@ -125,7 +125,7 @@ h3.aprender {
     margin: 0px 5px 0px 5px;
     background-color: rgba(8, 160, 109, 0.938);
     border-radius: 5px 5px 0px 0px;
-    width: 760px;
+
     margin: auto;
     padding: 10px;
 
@@ -135,7 +135,6 @@ aside div {
     margin: 0px 5px 0px 5px;
     background-color: rgba(127, 255, 212, 0.535);
     border-radius: 5px 5px 5px 5px;
-    width: 760px;
     margin: auto;
     padding: 10px;
 }
