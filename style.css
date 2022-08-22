@@ -83,7 +83,7 @@ h2 {
     font-family: 'Silkscreen', cursive;
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor2), white);
-    width: 500px;
+
 }
 
 main {
