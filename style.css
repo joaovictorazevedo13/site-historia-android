@@ -83,7 +83,7 @@ div#Menu > a:hover{
 }
 
 h2 {
-    font-family: "Android";
+    font-family: "Android", Arial, Helvetica, sans-serif;
     color: var(--cor5);
     background-image: linear-gradient(to right, var(--cor2), white);
     width: 500px;
@@ -103,7 +103,7 @@ main {
 
 h1.AndroidFont {
     margin-top: 10px;
-    font-family: "Android";
+    font-family: "Android", Arial, Helvetica, sans-serif;
 }
 
 div.video {
