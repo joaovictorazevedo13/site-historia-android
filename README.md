@@ -3,4 +3,4 @@
 
  Aprendendo a criar Sites
 
-<a href="https://github.com/joaovictorazevedo13/site-historia-android/index.html"> Site História do Android</a>
+<a href="https://joaovictorazevedo13.github.io/site-historia-android/"> Site História do Android</a>
